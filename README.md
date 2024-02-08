@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cletus256
-- 👀 I’m interested in java and python
-- 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on java and python
+- 👋 Hi, I’m @cletusmugabo
+- 👀 I’m interested in java,python and web Development.
+- 🌱 I’m currently learning javascript and React.
+- 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me cletusmug@gmail.com
 
 <!---
